@@ -4,7 +4,7 @@ public class SignupPage {
 	
 	public  SignupPage() {
 		
-		System.out.println("test.com>>DY");
+		System.out.println("test.com>>DY>>Ny");
 	}
 
 }
